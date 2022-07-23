@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Au Yew Rong Roydon</title>
+    <link>https://roydonauyr.github.io/Roydon_portfolio/post/</link>
+    <description>Recent content in Projects on Au Yew Rong Roydon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roydonauyr.github.io/Roydon_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESG Data modelling and predictions</title>
+      <link>https://roydonauyr.github.io/Roydon_portfolio/post/project-4/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roydonauyr.github.io/Roydon_portfolio/post/project-4/</guid>
+      <description>This was a competition organised by Goldman Sachs where my friends and I made it into the finals.
+We were tasked with designing a solution for ESG investing and transforming unstructured data into structured data.
+Our Solution We created a solution that utilises LDA and light gradient boosting to extract data from pdfs and transform unstructured data into structured data that investors can easily intepret.
+Process flow for text lemmatisation:</description>
+    </item>
+    
+    <item>
+      <title>Carpark Locator</title>
+      <link>https://roydonauyr.github.io/Roydon_portfolio/post/project-2/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roydonauyr.github.io/Roydon_portfolio/post/project-2/</guid>
+      <description>Aim of the project: In this project, my friends and I designed a solution for users to have their very own carpark companion. This companion goes beyond helping them look for a carpark spot but also includes features such as remembering their parking spot and also a forum for carpark users to share experiences.
+The overall application provides an easy to use interface which allows users to view nearby carparks, and to search a carpark based on their desired location.</description>
+    </item>
+    
+    <item>
+      <title>A Length of Stay estimator and Dashboarding for Hospitals</title>
+      <link>https://roydonauyr.github.io/Roydon_portfolio/post/project-1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roydonauyr.github.io/Roydon_portfolio/post/project-1/</guid>
+      <description>What is the business problem: The Business Problem lies in inaccurate assessment of Length of Stay (LOS) in South African Hospitals.
+Doctors are at the forefront of a hospital&amp;rsquo;s operations, yet their scope of decisions arguably fail to include the wide range of administrative constraints faced by the hospital in its entirety. This leads to even wider implications like Patient Health Risks, Poor Patient Experience, Higher Healthcare Charges, Operational Delay and Inefficiency, and Increased Financial Burden on the hospital.</description>
+    </item>
+    
+    <item>
+      <title>GDP and GDP growth Estimator</title>
+      <link>https://roydonauyr.github.io/Roydon_portfolio/post/project-3/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://roydonauyr.github.io/Roydon_portfolio/post/project-3/</guid>
+      <description>Aim of the report: This report studies environmental factors, primarily renewable energy, and their relationship with two variables – GDP per capita, and GDP per capita growth, over a period of 28 years (1991 to 2018). Due to the presence of many strong outliers for GDP per capita growth, the relationship was studied by converting it into a categorical variable (Acceptable growth).
+Findings and models used:
+Linear Regression and Continuous CART Model Upon many comparisons, we have found that continuous CART was the better model of the two for all datasets (Lower RMSE).</description>
+    </item>
+    
+  </channel>
+</rss>
